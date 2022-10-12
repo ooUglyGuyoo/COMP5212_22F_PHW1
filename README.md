@@ -170,7 +170,7 @@ This report will compare the logistic regression model and the logistic regressi
     Momentum         : 0.9
 
 #### Compare
-![OPT](/HW1/pic/OPT.png)
+![OPT](/pic/OPT.png)
 From the above two result we can see that with momentum involved, the loss start at the a smaller initial value and converge more quickly. It can be observed that with momentum involved, the optimization process is accelerated.
 
 ## Effect of different step size (learning rate)
@@ -225,5 +225,5 @@ This report will use the Support-Vector Machine with different step size to illu
     Momentum         : 0
 
 #### Effect
-![LR-legend](/HW1/pic/LR-legend.png)
+![LR-legend](/pic/LR-legend.png)
 The graph shows that with the decrease of step size, the initial value of the loss decrease first and increase afterwards. This show that the step size need to be at a suitable value (cannot be too large nor too small) in order to reached a optimized situation.

@@ -60,13 +60,13 @@ COMP5212: Machine Learning Programming Homework 1 Report
 ### Compare result for 2 optimizer
 This report will compare the logistic regression model with and without momentum.
 <p align="center">
-<img src="/HW1/pic/OPT.png" width="350"></img>
+<img src="/pic/OPT.png" width="350"></img>
 </p>
 From the above two result we can see that with momentum involved, the loss start at the a smaller initial value and converge more quickly. It can be observed that with momentum involved, the optimization process is accelerated.
 
 ### Effect of different step size (learning rate)
 This report will use the Support-Vector Machine with different step size to illustrate its effect.
 <p align="center">
-<img src="/HW1/pic/LR-legend.png" width="350"></img>
+<img src="/pic/LR-legend.png" width="350"></img>
 </p>
 The graph shows that with the decrease of step size, the initial value of the loss decrease first and increase afterwards. This show that the step size need to be at a suitable value (cannot be too large nor too small) in order to reached a optimized situation.
